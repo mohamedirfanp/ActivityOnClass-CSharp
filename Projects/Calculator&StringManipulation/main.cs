@@ -24,11 +24,11 @@ namespace MyFirstApp
             {
                 case "1":
                     calculator.Mains();
-                    Main();
+                    Mains();
                     break;
                 case "2":
                     stringManipulation.String_Main();
-                    Main();
+                    Mains();
                     break;
                 case "3" or "q":
                     Console.WriteLine("Exiting...");
