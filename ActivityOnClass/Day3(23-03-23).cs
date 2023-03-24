@@ -71,7 +71,7 @@ namespace ConsoleApp1
 				Console.WriteLine(fl[i]);
             }
 
-			// 2D Array
+			// 2D Array 
 			int[,] arr =
 			{
 				{ 1, 2},
@@ -169,7 +169,7 @@ namespace ConsoleApp1
 			// 3. SortedSet
 			//collectionClass.SortedSetMethod();
 			// 4. Stack
-			collectionClass.StackMethod();
+			//collectionClass.StackMethod();
 
 
 
