@@ -9,7 +9,7 @@ namespace ActivityOnClassInCSharp.TaskOnClass._24_03_2023
     internal class main
     {
 
-        public static void Main(string[] args)
+        public static void Mains(string[] args)
         {
             TaskProblem1 tp1 = new TaskProblem1();
             TaskProblem2 tp2 = new TaskProblem2();
