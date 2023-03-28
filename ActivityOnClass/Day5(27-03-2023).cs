@@ -10,7 +10,7 @@ namespace ActivityOnClassInCSharp.ActivityOnClass
     {
         enum days { Monday, Tuesday};
 
-        public static void Main(string[] args)
+        public static void Mains(string[] args)
         {
             //    OOPS_Concepts oops = new OOPS_Concepts();
             //    oops.method1();
