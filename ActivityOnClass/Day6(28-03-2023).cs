@@ -17,7 +17,7 @@ namespace ActivityOnClassInCSharp.ActivityOnClass
 
 	internal class Day6_23_03_2023_
 	{
-		public static void Main(string[] args)
+		public static void Mains(string[] args)
 		{
 			// delegate
 			//DelegateForSum d = Addition;

@@ -1,4 +1,1 @@
-HI from textStream
-asdasidjaspod
-asdjaopsdkmad
-asdapsok
+Some msg from method3
